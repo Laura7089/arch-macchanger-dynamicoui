@@ -1,4 +1,3 @@
-# $Id: PKGBUILD,v 1.2 2007/07/06 07:07:40 tardo Exp $
 
 pkgname=macchanger
 pkgver=1.5.0

@@ -1,3 +1,4 @@
+# Maintainer: Daniel J Griffiths <ghost1227@archlinux.us>
 
 pkgname=macchanger
 pkgver=1.5.0

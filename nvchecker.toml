@@ -1,0 +1,3 @@
+[macchanger-dynamicoui]
+source = "archpkg"
+archpkg = "macchanger"
